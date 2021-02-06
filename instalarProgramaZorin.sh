@@ -54,3 +54,5 @@ sudo apt-get install netbeans -y
 
 echo Instalando quemador de discos CD/DVD
 sudo apt-get install brasero -y
+
+echo prueba
